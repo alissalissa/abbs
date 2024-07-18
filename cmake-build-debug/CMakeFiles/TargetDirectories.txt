@@ -1,0 +1,3 @@
+/home/alissa/Documents/development/abbs/cmake-build-debug/CMakeFiles/abbs.dir
+/home/alissa/Documents/development/abbs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alissa/Documents/development/abbs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
