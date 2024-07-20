@@ -21,8 +21,9 @@ namespace abbs {
 		~user(void)=default;
 		
 		//Get/set
-		void change_uname(std::string);
-		std::string get_uname(void);
+		void set_uname(std::string);
+		[[nodiscard]] std::string get_uname(void) const;
+		void add_post(long);
 	};
 	
 } // abbs
